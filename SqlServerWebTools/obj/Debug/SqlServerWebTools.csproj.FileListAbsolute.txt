@@ -1,0 +1,16 @@
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerWebTools.dll
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerWebTools.pdb
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerTools.dll
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\bin\nunit.framework.dll
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerTools.pdb
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\obj\Debug\SqlServerWebTools.dll
+D:\Projects\src_hacking\sqlexpressprofiler\SqlServerWebTools\obj\Debug\SqlServerWebTools.pdb
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerWebTools.dll
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerWebTools.pdb
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerTools.dll
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\bin\nunit.framework.dll
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\bin\SqlServerTools.pdb
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\obj\Debug\SqlServerWebTools.dll
+D:\Projects\tmp\sqlexpressprofiler\SqlServerWebTools\obj\Debug\SqlServerWebTools.pdb
