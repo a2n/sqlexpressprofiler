@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerWebTools", "SqlServerWebTools\SqlServerWebTools.csproj", "{790A4EF2-84CC-407D-92E3-E7AEA0DE1D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerTools", "SqlServerTools\SqlServerTools.csproj", "{E4D68A3B-E966-4ECE-A39F-834342826A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlExpressProfiler", "SqlExpressProfiler\SqlExpressProfiler.csproj", "{FB3B337B-31A7-4C21-B8E2-ED9469B73ECC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SqlExpressProfiler.Setup", "SqlExpressProfiler.Setup\SqlExpressProfiler.Setup.vdproj", "{6E2C5D63-4AA4-4552-BBA5-522B648425A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790A4EF2-84CC-407D-92E3-E7AEA0DE1D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790A4EF2-84CC-407D-92E3-E7AEA0DE1D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790A4EF2-84CC-407D-92E3-E7AEA0DE1D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790A4EF2-84CC-407D-92E3-E7AEA0DE1D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D68A3B-E966-4ECE-A39F-834342826A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D68A3B-E966-4ECE-A39F-834342826A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D68A3B-E966-4ECE-A39F-834342826A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D68A3B-E966-4ECE-A39F-834342826A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3B337B-31A7-4C21-B8E2-ED9469B73ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3B337B-31A7-4C21-B8E2-ED9469B73ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3B337B-31A7-4C21-B8E2-ED9469B73ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3B337B-31A7-4C21-B8E2-ED9469B73ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2C5D63-4AA4-4552-BBA5-522B648425A2}.Debug|Any CPU.ActiveCfg = Debug
+		{6E2C5D63-4AA4-4552-BBA5-522B648425A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Projects\tmp\sqlexpressprofiler\AnfiniL.Permission\bin\Debug\AnfiniL.Permission.dll
+D:\Projects\tmp\sqlexpressprofiler\AnfiniL.Permission\bin\Debug\AnfiniL.Permission.pdb
+D:\Projects\tmp\sqlexpressprofiler\AnfiniL.Permission\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\tmp\sqlexpressprofiler\AnfiniL.Permission\obj\Debug\AnfiniL.Permission.dll
+D:\Projects\tmp\sqlexpressprofiler\AnfiniL.Permission\obj\Debug\AnfiniL.Permission.pdb
